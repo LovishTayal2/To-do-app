@@ -8,10 +8,7 @@ TaskFlow is a simple and responsive Todo web application that helps users manage
 - Age verification (must be older than 10)
 - Tasks management with three stages: Todo, Completed, Archived
 - Persistent data using browser LocalStorage
-- Profile avatar via UI Avatars API
-- Initial dummy tasks loaded from DummyJSON API
 - Sign out functionality to clear data
-- Responsive and mobile-friendly design
 
 ## How to Use
 
