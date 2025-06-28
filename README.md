@@ -17,4 +17,4 @@ TaskFlow is a simple and responsive Todo web application that helps users manage
 
 1. Open `index.html` in your browser.
 2. Register with your name and date of birth.
-3. Manage your tasks on the dashboar
+3. Manage your tasks on the dashboard
